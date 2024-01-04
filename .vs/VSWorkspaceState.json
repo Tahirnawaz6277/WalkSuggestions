@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NZWalks.API",
+    "\\NZWalks.API\\Models",
+    "\\NZWalks.API\\Models\\DTO",
+    "\\NZWalks.API\\Repository"
+  ],
+  "SelectedNode": "\\NZWalks.API\\Models\\DTO\\WalkUpdateDto.cs",
+  "PreviewInSolutionExplorer": false
+}
