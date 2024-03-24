@@ -161,3 +161,4 @@ D:\source\repos\UdemyProject\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Micros
 D:\source\repos\UdemyProject\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 D:\source\repos\UdemyProject\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 D:\source\repos\UdemyProject\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\source\repos\UdemyProject\NZWalks\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.sourcelink.json
