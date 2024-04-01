@@ -4,7 +4,7 @@ using NZWalks.API.Data;
 using NZWalks.API.Models.Domain;
 
 namespace NZWalks.API.Repository
-{
+{                                     //this is RepositoryService class or file
 
     public class SQLRegionRepository : IRegionRepository
     {
@@ -41,6 +41,7 @@ namespace NZWalks.API.Repository
         {
            return await dbContext.Regions.ToListAsync();
         }
+
         public async Task<Region> GetByIdAsync(Guid id)
         {
             return await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
